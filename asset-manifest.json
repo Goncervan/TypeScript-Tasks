@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypeScript-Tasks/static/css/main.64fe74cd.css",
+    "main.js": "/TypeScript-Tasks/static/js/main.01cb0c62.js",
+    "index.html": "/TypeScript-Tasks/index.html",
+    "main.64fe74cd.css.map": "/TypeScript-Tasks/static/css/main.64fe74cd.css.map",
+    "main.01cb0c62.js.map": "/TypeScript-Tasks/static/js/main.01cb0c62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64fe74cd.css",
+    "static/js/main.01cb0c62.js"
+  ]
+}
